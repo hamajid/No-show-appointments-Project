@@ -16,7 +16,7 @@ I’ll investigate if the gender, appointment day, age, hospital location, educa
 
 Note: For the No-show column, if it says ’Yes’ that means the patient didn’t show up for her appointment.
 
-### Dataset Description
+## Dataset Description
 This dataset consists of information of about 100k medical appointments in Brazil. The main focus of the dataset is whether the patients showed up for their appointments or not. The dataset consists of 14 columns:
 
 1- PatientId: The ID of each patient.
